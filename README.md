@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/jtriana659/Personal-Portfolio/blob/main/src/images/portfolio.png](https://github.com/Jtriana659/Jtriana659/blob/main/Icons/perfil%20linkedIn.png)" height="200"/>
+  <img src="https://github.com/Jtriana659/Jtriana659/blob/main/Icons/perfil%20linkedIn.png" height="200"/>
 </p>
 
 <h3 align="center"> 
@@ -21,9 +21,9 @@
 <div align="center"><a href="https://www.buymeacoffee.com/mhtonmoy13" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
 <br />
 
-## <picture><img src = "https://img.icons8.com/?size=100&id=Dj3XwCB6cihe&format=png&color=000000" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Jtriana659/Jtriana659/blob/main/Icons/Developer.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://img.icons8.com/?size=100&id=bKSvo9ql5XJg&format=png&color=000000" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Jtriana659/Jtriana659/blob/main/Icons/Developer.gif" width = 250px></picture>
 
 Mi nombre es `Jeisson Triana`, soy `Ingeniero de Sistemas` egresado de la `Corporación Tecnológica Industrial Colombiana (TEINCO)`.
 
@@ -86,9 +86,9 @@ Mi nombre es `Jeisson Triana`, soy `Ingeniero de Sistemas` egresado de la `Corpo
 
 <div align="center">
 <h3>
-  <img src="https://img.icons8.com/?size=100&id=42460&format=png&color=000000" width="50" height="50" style="vertical-align:middle; margin-right:10px;">
+  <img src="https://github.com/Jtriana659/Jtriana659/blob/main/Icons/Handshake.gif" width="50" height="50" style="vertical-align:middle; margin-right:10px;">
   Connect With Me
-  <img src="https://img.icons8.com/?size=100&id=37965&format=png&color=000000" width="50" height="50" style="vertical-align:middle; margin-left:10px;">
+  <img src="https://github.com/Jtriana659/Jtriana659/blob/main/Icons/Handshake.gif" width="50" height="50" style="vertical-align:middle; margin-left:10px;">
 </h3>
 
 <p align="center">
@@ -150,7 +150,7 @@ Mi nombre es `Jeisson Triana`, soy `Ingeniero de Sistemas` egresado de la `Corpo
 <br>
 <div align="center">
   <h3 align="center">Visitor's count :eyes:</h3>
-<p align="center"><img src="https://img.icons8.com/?size=100&id=0wd1lFcg9niE&format=png&color=000000" alt="0_My_Template :: Visitor's Count" /></p>
+<p align="center"><img src="https://github.com/Jtriana659/Jtriana659/blob/main/Icons/bar.gif" alt="0_My_Template :: Visitor's Count" /></p>
 </div>
     
 <!-- 📊 GitHub Profile Summary Cards -->
