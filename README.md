@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://github.com/Jtriana659/Jtriana659/blob/main/Icons/perfil%20linkedIn.png" height="200"/>
-</p>
+  
 
+   </p>           
 <h3 align="center"> 
-    <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="21"></a> Hi, I'm JEISSON TRIANA! A passionate Frontend- BACKEND Developer <img align="center" alt="GIF" width="30"  src="https://img.icons8.com/?size=100&id=CYKmbdFrJTJm&format=png&color=000000" width="36"/>
+    <img src="https://img.icons8.com/?size=100&id=1H52efUsDX7A&format=png&color=000000" width="21"></a> Hi, I'm <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="jeisson-triana-09782268" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://co.linkedin.com/in/jeisson-triana-09782268?trk=profile-badge">JEISSON TRIANA</a></div>
+ A passionate Frontend- BACKEND Developer <img align="center" alt="GIF" width="30"  src="https://img.icons8.com/?size=100&id=CYKmbdFrJTJm&format=png&color=000000" width="36"/>
 </h3>
 
 <p align="center">
