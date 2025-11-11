@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jtriana659/Personal-Portfolio/blob/main/src/images/portfolio.png" height="200"/>
+  <img src="[https://github.com/jtriana659/Personal-Portfolio/blob/main/src/images/portfolio.png](https://github.com/Jtriana659/Jtriana659/blob/main/Icons/perfil%20linkedIn.png)" height="200"/>
 </p>
 
 <h3 align="center"> 
