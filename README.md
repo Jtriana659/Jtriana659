@@ -2,7 +2,6 @@
 
 ### Software Developers
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/Jtriana659&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/Jtriana659" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Jtriana659" alt="https://github.com/Jtriana659" /></a> </p>
 
