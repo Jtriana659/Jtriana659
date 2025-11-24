@@ -20,7 +20,7 @@
     &emsp;
 </p>
 
-<div align="center"><a href="https://www.buymeacoffee.com/mhtonmoy13" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
+<div align="center"><a href="#" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></div>
 <br />
 
 ## <picture><img src = "https://github.com/Jtriana659/Jtriana659/blob/main/Icons/Developer.gif" width = 50px></picture> About me
